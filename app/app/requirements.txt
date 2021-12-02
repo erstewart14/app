@@ -1,0 +1,7 @@
+flask
+flask_apscheduler
+sqlalchemy
+pandas
+psycopg2-binary
+requests
+sklearn
